@@ -1,4 +1,7 @@
 ### This extension is no longer maintained ###
+
+I will be looking into this extension in my spare time
+
 ## Unity Debugger Extension for Visual Studio Code
 
 This extension is not officially supported by Unity Technologies.
